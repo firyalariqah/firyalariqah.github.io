@@ -1,0 +1,25 @@
+body {
+  min-height: 3000px;
+}
+.jumbotron {
+  padding-top: 6rem;
+  background-color: #edd398;
+}
+
+.navbar {
+  background-color: #ecb739;
+}
+#biodata {
+  background-color: #edd398;
+}
+#skills {
+  background-color: #edd398;
+}
+
+#contact {
+  background-color: #edd398;
+}
+
+section {
+  padding-top: 5rem;
+}
